@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/PMBzRKg/odc.jpg" alt="X Dev-Team" width="300" />
-# <div align="center"> Itsuki Botz </div>
+
+# Itsuki Botz
 
 
 # **Please.**
