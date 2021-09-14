@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/PMBzRKg/odc.jpg" alt="X Dev-Team" width="300" />
+<img src="./stik/thumb.jpeg" alt="ItsukiBotz" width="300" />
 
 # Itsuki Botz
 
@@ -147,3 +147,5 @@ ____
 * [`KiZakiXD`](https://github.com/KiZakiXD)
 * [`X DEV-TEAM`](https://github.com/xdevteam404)
 * [`ALL CREATOR`]
+>
+>
