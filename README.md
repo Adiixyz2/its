@@ -1,35 +1,11 @@
 <div align="center">
 <img src="https://i.ibb.co/PMBzRKg/odc.jpg" alt="X Dev-Team" width="300" />
 
-# KANG REMAKE
+**Please.**
 
->
->
->
-</div>
-<p align="center">
-  <a href="https://github.com/KiZakiXD"><img title="Remake" src="https://img.shields.io/badge/Author-KiZakiXD-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-  <a href="https://wa.me/285878313791"> I Am Wibu >//< </a>
-</h4>
-</p>
+- [Subscribe My Chanel Youtube](https://m.youtube.com/channel/Adiination)
 
-- 🌱 I Can Codes In :
-
-  - HTML
-
-  - CSS
-
- ✨ Remake Adalah Hobiku >_<
-
-    Nolep Is Live🖤
-
-
-**Information:**
-
-- [My Chanel Youtube](https://m.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w)
-
-- [Donate](wa.me/6285878313791)
+- [Donate](wa.me/60199782326)
 
 ## <div align="center">⚡ Information </div>
 
@@ -65,33 +41,32 @@
 
 ___
 
-![Zhirrr github stats](https://github-readme-stats.vercel.app/api?username=KiZakiXD&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiZakiXD&hide=css,html&theme=tokyonight)
-
 ## CARA INSTALL DI TERMUX
-```bash
-> pkg install nodejs && pkg install git
-> git clone https://github.com/KiZakiXD/zakbotz02
-> cd zakbotz02
+```cmd
+> apt install nodejs && apt install git
+> git clone https://github.com/Itsuki-chan/itsukibotz
+> cd itsukibotz
 > bash install.sh / npm install
 > npm update
 > npm start/node main.js
 ```
-## CARA INSTALL DI RDP
-```bash
-> git clone https://github.com/KizakiXD/zakbotz02 
-> cd zakbotzv02
+
+## CARA INSTALL DI WINDOWS
+#### INSTALL
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+
+```cmd
+> git clone https://github.com/Itsuki-chan/itsukibotz
+> cd itsukibotz
 > npm i
 > npm update
 > npm start/node main.js
 ```
 
-# INSTALL
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
+#### Note : kalo gamau npm i tinggal run aja. ada node_modules
 
 # PIMTUR
 
@@ -174,20 +149,14 @@ ___
 | GET |✅|
 | TERM |✅|
 | X |✅|
-| ADA TAMBAHAN FITU TAPI MALES NULIS|✅|
-
-### `--debug`
-
-```js
-conn.logger.level = 'debug'
-```
+| ADA TAMBAHAN FITUR TAPI MALES NULIS|✅|
 
 ---------
 
- [![X-Dev Team](https://github.com/xdevteam404.png?size=100)](https://github.com/xdevteam404) | [![KiZakiXD](https://github.com/KiZakiXD.png?size=100)](https://github.com/KiZakiXD)
+ [![KiZakiXD](https://github.com/KiZakiXD.png?size=100)](https://github.com/KiZakiXD) | [![Adiixyz](https://github.com/Adiixyz.png?size=100)](https://github.com/Adiixyz)
 ----|----
-[X-Dev Team](https://github.com/xdevteam404) | [KiZakiXD](https://github.com/KiZakiXD)
- Penulis / Pencipta | Penulis ulang / Remake
+[KiZakiXD](https://github.com/KiZakiXD) | [Adiixyz](https://github.com/Adiixyz)
+ Penulis / Pencipta | Penulis ulang / Remake 2
 
 
   # MAKASIH LORT
@@ -195,5 +164,6 @@ conn.logger.level = 'debug'
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`MRHRTZ`](https://github.com/MRHRTZ)
 * [`Hexagonz`](https://github.com/Hexagonz)
+* [`KiZakiXD`](https://github.com/KiZakiXD)
 * [`X DEV-TEAM`](https://github.com/xdevteam404)
 * [`ALL CREATOR`]
