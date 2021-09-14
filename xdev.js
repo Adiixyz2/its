@@ -1,6 +1,3 @@
-// SC BY 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳
-// JANGAN DIPERJUAL BELIKAN !
-// SC PREMIUMNYA FULL MODULE!
 const
 	{
 		WAConnection,
@@ -68,12 +65,12 @@ let bancht = JSON.parse(fs.readFileSync('./database/banchat.json'))
 banChats = true
 offline = false
 targetpc = '0'
-ownerNumber = ["6285878313791@s.whatsapp.net","6283803284713@s.whatsapp.net","6287705048235@s.whatsapp.net","6289512695391@s.whatsapp.net"]
-fake = 'ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ'
-fake1 = '_*© 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳*_'
+ownerNumber = ["60199782326@s.whatsapp.net"]
+fake = 'Itsuki Botz'
+fake1 = '*© 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 Itsuki??*'
 numbernye = '0'
 waktu = '-'
-alasan = '-'
+alasan = 'Nonton anime:v'
 
 /////***𝙁𝙐𝙉𝙏𝙄𝙊𝙉 𝘼𝘿𝘿 𝘾𝙈𝘿 & 𝘿𝙀𝙇𝙀𝙏𝙀***\\\\\
  var _0x7dfa=["\x70\x75\x73\x68","\x2E\x2F\x64\x61\x74\x61\x62\x61\x73\x65\x2F\x73\x63\x6F\x6D\x6D\x61\x6E\x64\x2E\x6A\x73\x6F\x6E","\x73\x74\x72\x69\x6E\x67\x69\x66\x79","\x77\x72\x69\x74\x65\x46\x69\x6C\x65\x53\x79\x6E\x63","\x69\x64","\x66\x6F\x72\x45\x61\x63\x68","\x6B\x65\x79\x73","\x63\x68\x61\x74\x73"];const addCmd=(_0x69b2x2,_0x69b2x3)=>{const _0x69b2x4={id:_0x69b2x2,chats:_0x69b2x3};_scommand[_0x7dfa[0]](_0x69b2x4);fs[_0x7dfa[3]](_0x7dfa[1],JSON[_0x7dfa[2]](_scommand))};const getCommandPosition=(_0x69b2x2)=>{let _0x69b2x6=null;Object[_0x7dfa[6]](_scommand)[_0x7dfa[5]]((_0x69b2x7)=>{if(_scommand[_0x69b2x7][_0x7dfa[4]]=== _0x69b2x2){_0x69b2x6= _0x69b2x7}});if(_0x69b2x6!== null){return _0x69b2x6}};const getCmd=(_0x69b2x2)=>{let _0x69b2x6=null;Object[_0x7dfa[6]](_scommand)[_0x7dfa[5]]((_0x69b2x7)=>{if(_scommand[_0x69b2x7][_0x7dfa[4]]=== _0x69b2x2){_0x69b2x6= _0x69b2x7}});if(_0x69b2x6!== null){return _scommand[_0x69b2x6][_0x7dfa[7]]}};const checkSCommand=(_0x69b2x2)=>{let _0x69b2xa=false;Object[_0x7dfa[6]](_scommand)[_0x7dfa[5]]((_0x69b2x7)=>{if(_scommand[_0x69b2x7][_0x7dfa[4]]=== _0x69b2x2){_0x69b2xa= true}});return _0x69b2xa}
@@ -155,17 +152,17 @@ module.exports = xdev = async (xdev, dev) => {
 
         //MESS
 		mess = {
-			wait: '_Tunggu sebentar ya kak_',
-			admin: '_Kusus Pejabat Grup',
-			owner: '_Kusus Anu',
-			success: '√ Done!',
+			wait: '*Tunggu permintaan anda sedang diproses*',
+			admin: 'Only Admin Group',
+			owner: 'Perintah ini hanya untuk Owner-itsuki',
+			success: 'Done banh',
 			wrongFormat: 'Format Salah Tod',
 			error: {
 				stick: 'bukan sticker tu',
 				Iv: 'Linknya error!'
 			},
 			only: {
-				group: 'Khusus grup ngab',
+				group: 'Only Group',
 			}
 		}
 		const isUrl = (url) => {
@@ -173,31 +170,31 @@ module.exports = xdev = async (xdev, dev) => {
         }
         //FAKEREPLY PRODUCT
             const ftoko = {
-                  key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "60139571124@s.whatsapp.net" } : {})},message: {"productMessage": {"product": {"productImage":{"mimetype": "image/jpeg","jpegThumbnail": fs.readFileSync(`./stik/thumb.jpeg`)},"title": `OPEN BO BANG?\n${pushname}`,"description": "ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ", "currencyCode": "IDR","priceAmount1000": "9999999999","retailerId": "ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ","productImageCount": 1},"businessOwnerJid": `0@s.whatsapp.net`}}}
+                  key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "60199782326@s.whatsapp.net" } : {})},message: {"productMessage": {"product": {"productImage":{"mimetype": "image/jpeg","jpegThumbnail": fs.readFileSync(`./stik/thumb.jpeg`)},"title": `Ntah lah\n${pushname}`,"description": "Itsuki Botz", "currencyCode": "IDR","priceAmount1000": "9999999999","retailerId": "Itsuki Botz","productImageCount": 1},"businessOwnerJid": `0@s.whatsapp.net`}}}
             //FAKE KONTAK
             const fkontak = { 
                   key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: `0@s.whatsapp.net` } : {}) }, message: { 'contactMessage': { 'displayName': `${pushname}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}
             //FAKE STICKER
             const fsticker = {
-                  key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "60139571124@s.whatsapp.net" } : {})},"message": {"stickerMessage": { "url": "https://mmg.whatsapp.net/d/f/Am6FBfNf-E2f1VoGBXkPaNAy7L6Tw_HMavKrHEt48QM4.enc","fileSha256": "Yfj8SW7liSEnDakvyVlXVZQ1LJBC9idn09X7KHe8HTc=","fileEncSha256": "F854aUrzgAkBTOVULpne4oSIi6S04Jo56pjZEo+p+9U=","mediaKey": "Z3nA2asclAAwWHngNO/vJ81qxOE2/0gkEnXak+NxPV4=","mimetype": "image/webp","height": 64,"width": 64,"directPath": "/v/t62.15575-24/12097272_1193895144391295_8973688483514349023_n.enc?ccb=11-4&oh=5a9d7147627a8355569f1a641b9ebee3&oe=60C65E73","fileLength": "7186","mediaKeyTimestamp": "1622815545","isAnimated": false}}}
+                  key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "60199782326@s.whatsapp.net" } : {})},"message": {"stickerMessage": { "url": "https://mmg.whatsapp.net/d/f/Am6FBfNf-E2f1VoGBXkPaNAy7L6Tw_HMavKrHEt48QM4.enc","fileSha256": "Yfj8SW7liSEnDakvyVlXVZQ1LJBC9idn09X7KHe8HTc=","fileEncSha256": "F854aUrzgAkBTOVULpne4oSIi6S04Jo56pjZEo+p+9U=","mediaKey": "Z3nA2asclAAwWHngNO/vJ81qxOE2/0gkEnXak+NxPV4=","mimetype": "image/webp","height": 64,"width": 64,"directPath": "/v/t62.15575-24/12097272_1193895144391295_8973688483514349023_n.enc?ccb=11-4&oh=5a9d7147627a8355569f1a641b9ebee3&oe=60C65E73","fileLength": "7186","mediaKeyTimestamp": "1622815545","isAnimated": false}}}
             //FAKE VN
             const fvn = {
-                  key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "60139571124@s.whatsapp.net" } : {})},message: { "audioMessage": {"mimetype":"audio/ogg; codecs=opus","seconds": "9999999","ptt": "true"}}}
+                  key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "60199782326@s.whatsapp.net" } : {})},message: { "audioMessage": {"mimetype":"audio/ogg; codecs=opus","seconds": "9999999","ptt": "true"}}}
             //FAKE TEXT
             const ftext = {
-                  key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "60139571124@s.whatsapp.net" } : {})},message: { "extendedTextMessage": {"text": `${fake}`,"title": `Hmm`,'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}
+                  key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "60199782326@s.whatsapp.net" } : {})},message: { "extendedTextMessage": {"text": `${fake}`,"title": `Hmm`,'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}
             //FAKE LIVE ACTION
             const floc2 = {
                   key: {"fromMe": false,"participant": `0@s.whatsapp.net`, "remoteJid": "6285878313791-60139571124@g.us" },message: { "liveLocationMessage": { "title":`${fake}`,}}}
             //FAKEREPLY TROLI
             const ftroli = {
-                  key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "60139571124@s.whatsapp.net" } : {})},message: {orderMessage: {itemCount : 2005,status: 1,surface : 1,message: `${fake}`,orderTitle: 'Bang',thumbnail: fs.readFileSync('./stik/thumb.jpeg'), sellerJid: '0@s.whatsapp.net'}}}
+                  key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "60199782326@s.whatsapp.net" } : {})},message: {orderMessage: {itemCount : 2005,status: 1,surface : 1,message: `${fake}`,orderTitle: 'Bang',thumbnail: fs.readFileSync('./stik/thumb.jpeg'), sellerJid: '0@s.whatsapp.net'}}}
             //FAKEREPLY VIDEO
             const fvideo = {
-                  key: {fromMe: false,participant: `6285878313791@s.whatsapp.net`, ...(from ? { remoteJid: "6285878313791-60139571124@g.us" } : {}) },message: { "videoMessage": { "title":"hallo bang","h": `Hmm`,'seconds': '-99999', 'caption': `${fake}`,'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}
+                  key: {fromMe: false,participant: `60199782326@s.whatsapp.net`, ...(from ? { remoteJid: "6285878313791-60139571124@g.us" } : {}) },message: { "videoMessage": { "title":"hallo bang","h": `Hmm`,'seconds': '-99999', 'caption': `${fake}`,'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}
             //FAKEREPLY GROUPINVITE
             const fgc = {
-                  key: {"fromMe": false,"participant": "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "6285878313791-60139571124@g.us","inviteCode": "mememteeeekkeke","groupName": "P", "caption": `${fake}`, 'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}
+                  key: {"fromMe": false,"participant": "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "6285878313791-60139571124@g.us","inviteCode": "mememteeeekkeke","groupName": "Itsuki Botz", "caption": `${fake}`, 'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}
             //FAKEREPLY GIF
             const fgif = {
                   key: {fromMe: false,participant: `6285878313791@s.whatsapp.net`, ...(from ? { remoteJid: "6285878313791-60139571124@g.us" } : {}) },message: { "videoMessage": { "title":"hallo bang","h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `${fake}`,'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}} 
@@ -328,7 +325,7 @@ module.exports = xdev = async (xdev, dev) => {
       xdev.sendMessage(from, commandsDB[i].balasan, text, {quoted: dev})
       }
       }
-            /////***𝙁𝙐𝙉𝙏𝙄𝙊𝙉 𝘼𝙉𝙏𝙄𝙇𝙄𝙉𝙆 𝙂𝙍𝙐𝙋***\\\\\
+            /////***Lol***\\\\\
 				if (budy.includes("https://chat.whatsapp.com/")) {
 				if (!isGroup) return
 				if (!isAntiLink) return
@@ -482,7 +479,7 @@ if (atibot === true) return
 
 switch (command) {
     case 'menu':
-    case 'p':
+    case 'help':
     const timestampp = speed();
 	const latensii = speed() - timestampp
 	run = process.uptime() 
@@ -491,14 +488,14 @@ gambur = 'https://i.ibb.co/wJj8tn8/thumb.jpg'
 gambar = await getBuffer(gambur)
 mhan = await xdev.prepareMessage(from, gambar, image, {thumbnail: gambar})
 gbutsan = [
-  {buttonId: 'CREATOR', buttonText: {displayText: '👤 CREATOR'}, type: 1},
-  {buttonId: 'GITHUB', buttonText: {displayText: '⎙ GITHUB'}, type: 1},
-  {buttonId: 'YOUTUBE', buttonText: {displayText: '🔍 NEKOPOI'}, type: 1}
+  {buttonId: 'CREATOR', buttonText: {displayText: 'Owner'}, type: 1},
+  {buttonId: 'GITHUB', buttonText: {displayText: 'Github'}, type: 1},
+  {buttonId: 'YOUTUBE', buttonText: {displayText: 'YouTube'}, type: 1}
 ]
  gbuttonan = {
 imageMessage: mhan.message.imageMessage,
     contentText: help.menu(pushname, sender, prefix, banChats, ucapanWaktu, timeWib, timeWit, timeWita),
-    footerText: `Speed    : ${latensii.toFixed(4)} Second\nRuntime : ${teks}\n\n_*© 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳*_`,
+    footerText: `Runtime : ${teks}\n\nCreated by Itsuki`,
     buttons: gbutsan,
     headerType: 4
 }
@@ -928,7 +925,7 @@ case 'add':
 					if (!isGroup) return reply(mess.only.group)
 					if (!isOwner & !dev.key.fromMe & !isGroupAdmins) return reply(mess.admin)
 					if (!isBotGroupAdmins) return reply(mess.badmin)
-					if (args.length < 1) return reply('Yang mau di add jin ya?')
+					if (args.length < 1) return reply('Yang mau di add Mark ya?')
 					if (args[0].startsWith('08')) return reply('Gunakan kode negara mas')
 					try {
 						num = `${args[0].replace(/ /g, '')}@s.whatsapp.net`
@@ -1279,7 +1276,7 @@ hehe = await xdev.sendMessage(from, {
 "displayName": `${ini_list.length} kontak`,
 "contacts": ini_list 
 }, 'contactsArrayMessage', { quoted: dev })
-xdev.sendMessage(from,'Tu Kak Orang Ganz >_<',text,{quoted: hehe})
+xdev.sendMessage(from,'ini owner gw',text,{quoted: hehe})
 break
 case 'style':
 				  if(!q) return reply('Masukkan teks!')
@@ -1290,7 +1287,7 @@ case 'style':
     })
 			break
 case 'pastebin':
-if(!q) return reply(`Example : ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ`)
+if(!q) return reply(`Example : Itsuki bot`)
 anu = await fetchJson(`https://api-anoncybfakeplayer.herokuapp.com/pastebin?text=${q}`, {method: 'get'})
                    xdev.sendMessage(from, `${anu.result}`, text, {quoted: ftroli})
                      break
@@ -2233,7 +2230,7 @@ ${descOwner ? `*Desc diubah oleh* : @${descOwner.split('@')[0]}` : '*Desc diubah
 										case 'sider':
 infom = await xdev.messageInfo(from, dev.message.extendedTextMessage.contextInfo.stanzaId)
 tagg = []
-shape = '▢'
+shape = '>'
 teks = `Telah Dibaca Oleh :\n\n`
 for(let i of infom.reads){
 teks += shape+' ' + '@' + i.jid.split('@')[0] + '\n'
@@ -2268,13 +2265,13 @@ break
 
  
 default:
-if (button == '👤 CREATOR') {
+if (button == 'OWNER') {
 console.log('CREATOR')
 let inilist = []
 for (let i of ownerNumber) {
 const vname = xdev.contacts[i] != undefined ? xdev.contacts[i].vname || xdev.contacts[i].notify : undefined
 inilist.push({
-"displayName": 'KIZAKIXD',
+"displayName": 'ITSUKI',
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${xdev.user.name}`}\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 })
 }
@@ -2282,21 +2279,21 @@ hehe = await xdev.sendMessage(from, {
 "displayName": `${inilist.length} kontak`,
 "contacts": inilist 
 }, 'contactsArrayMessage', { quoted: dev })
-xdev.sendMessage(from,'Ni Bawahan ᴢᴀᴋʙᴏᴛᴢ',text,{quoted: hehe})
+xdev.sendMessage(from,'Ni OWNER ITSUKI',text,{quoted: hehe})
 }
-if (button == '⎙ GITHUB') {
+if (button == 'GITHUB') {
 console.log('GITHUB')
-xdev.sendMessage(from, `*Stalkerin Aja Tuh*\n*https://github.com/kizakixd*`, text, {quoted: dev})
+xdev.sendMessage(from, `Bot ini menggunakan sc : github.com/Itsuki-chan/itsukibotz`, text, {quoted: dev})
 }
-if (button == '🔍 NEKOPOI') {
+if (button == 'YOUTUBE') {
 console.log('YOUTUBE')
-xdev.sendMessage(from, `*Subscribe Chanel Owner Ya*\n_https://m.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w_`, text, {quoted: dev})
+xdev.sendMessage(from, `*Subscribe Chanel Owner Ya*\n_https://m.youtube.com/channel/adiination_`, text, {quoted: dev})
 }
 if (budy.startsWith('$')){
 if (!dev.key.fromMe && !isOwner) return
 qur = budy.slice(2)
 exec(qur, (err, stdout) => {
-if (err) return reply(`@𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳:~ ${err}`)
+if (err) return reply(`itsuki@botz:~ ${err}`)
 if (stdout) {
 reply(stdout)
 }
