@@ -1,5 +1,5 @@
 {
-  "name": "KiZakiXD",
+  "name": "ItsukiBotz",
   "version": "4.0.0",
   "description": "Jangan diperjual belikan !",
   "main": "run.js",
@@ -43,15 +43,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xdevteam404"
+    "url": "git+https://github.com/Itsuki-chan/itsukibotz"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "KiZakiXD",
+  "author": "Adiixyz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xdevteam404"
+    "url": "https://github.com/Itsuki-chan/itsukibotz/issues"
   },
-  "homepage": "https://github.com/xdevteam404"
+  "homepage": "https://github.com/Itsuki-chan/itsukibotz"
 }
