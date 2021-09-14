@@ -1,11 +1,12 @@
 exports.menu = (pushname, sender, prefix, banChats, ucapanWaktu, timeWib, timeWit, timeWita) => {
-return`*╭─❒ 「 INFORMATION 」 ──────*
-*│*➪ *NAMA : OI ${pushname} LU GAY YA?*
+return`YO, ${pushname}
+
+*╭─❒ 「 INFORMATION 」 ──────*
 *│*➪ *WIB    : ${timeWib}*
 *│*➪ *WIT    : ${timeWit}*
 *│*➪ *WITA  : ${timeWita}*
-*│*➪ *CREATOR : 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳*
-*│*➪ *BOT NAME : ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ*
+*│*➪ *CREATOR : Itsuki*
+*│*➪ *BOT NAME : ItsukiBotz*
 *│*➪ *PREFIX : 「 MULTI PREFIX 」*
 *│*➪ *BOT MODE : ${banChats ? "SELF-MODE" : "PUBLIC-MODE"}*
 *└──────────────────❒*
@@ -181,7 +182,7 @@ return`*╭─❒ 「 INFORMATION 」 ──────*
 
 *╭─❒ 「 THANKS TO 」* 
 *│*
-*├  ⎔  : Allah Swt*
+*├  ⎔  : Adiixyz*
 *├  ⎔  : 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳*
 *├  ⎔  : YakkoXCode*
 *├  ⎔  : ざきﾗhﾏd*
@@ -196,5 +197,5 @@ return`*╭─❒ 「 INFORMATION 」 ──────*
 *│*
 *└──────────────────❒*
 
-▢ _*𝘽𝙊𝙏 𝘽𝙔 𝙆𝙄𝙕𝘼𝙆𝙄𝙓𝘿*_ ▢`
+▢ _*𝘽𝙊𝙏 𝘽𝙔 Itsuki??*_ ▢`
 }
